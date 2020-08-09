@@ -66,22 +66,14 @@
 
 ## 贡献代码
 
-ThorCryptoCurrency Strategy Library使用Github托管其源代码，如果希望贡献代码请使用github的PR（Pull Request）的流程:
+ThorCryptoCurrency Strategy Library接受志同道合的朋友的策略一起开源:
 
-1. [创建 Issue](https://github.com/fengok/ThorCryptocurrencyQuant/issues/new) - 对于策略较大的改动（如新功能，重构等）最好先开issue讨论一下，较小的improvement（如文档改进等）直接发PR即可
-
-2. Fork [ThorCryptocurrencyQuant](https://github.com/fengok/ThorCryptocurrencyQuant) - 点击右上角**Fork**按钮
-
-3. Clone你自己的fork: ```git clone https://github.com/fengok/ThorCryptocurrencyQuant.git```
-	* 如果你的fork已经过时，需要手动sync：[同步方法](https://help.github.com/articles/syncing-a-fork/)
-
-4. 从**dev**创建你自己的feature branch: ```git checkout -b $my_feature_branch dev```
-
-5. 在$my_feature_branch上修改并将修改push到你的fork上
-
-6. 创建从你的fork的$my_feature_branch分支到主项目的**dev**分支的[Pull Request] -  [在此](https://github.com/fengok/ThorCryptocurrencyQuant/compare?expand=1)点击**compare across forks**，选择需要的fork和branch创建PR
-
-7. 等待review, 需要继续改进，或者被Merge!
+- 因交易策略的特殊性，不进行直接提交PR方式，如有朋友也想开源自己的交易策略供大家学习使用，请加我微信：3404034
+- 或扫描下方二维码：
+<p align="center">
+  <img src ="http://fengok二维码.jpg"/>
+</p>
+- 在经过验证测试之后由我上传添加到开源库当中，并且会将开源作者进行记录！
 
 
 
