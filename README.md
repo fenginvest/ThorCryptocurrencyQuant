@@ -49,15 +49,16 @@
 
 - 对敲策略：
 
+- 套利策略：
+
 
 
 ## 使用说明
 
-- support for many cryptocurrency exchanges — more coming soon
-- fully implemented public and private APIs
-- optional normalized data for cross-exchange analytics and arbitrage
-- an out of the box unified API that is extremely easy to integrate
-- works in Node 7.6+, Python 3, PHP 5.4+, and web browsers
+- 所有策略开箱即用，填写自己的APIKey 与 Sercet，填写参数运行即可
+- 主流交易所借助CCXT实现，非主流交易所也适配封装了所有公有私有API，可直接运行
+- 非主流交易所数据格式返回与CCXT数据格式一致，方便数据分析
+- 运行环境Python3,CCXT需自行安装（pip install ccxt）
 
 
 
