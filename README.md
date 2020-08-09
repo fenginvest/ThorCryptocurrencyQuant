@@ -92,7 +92,11 @@ ThorCryptoCurrency Strategy Library使用Github托管其源代码，如果希望
 
 先强调一下：**本项目里面的策略都是开源的，可以无偿免费使用，并没有强制捐赠的要求！！！**
 
-捐赠方式：支付宝block@163.com（*裕峰）
+捐赠方式：
+- 支付宝：block@163.com（*裕峰）
+- Bitcoin wallet：1CPY1sUgLxYYNYMWy3ChpW5pmveiBnFMus
+- Ethereum wallet：0x545fbfbbc943adf29005aff1dfe39a91e282dcb7
+
 
 我们会长期维护捐赠清单，请在捐赠时备注项目名称与捐赠人姓名
 
