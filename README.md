@@ -1,4 +1,4 @@
-# CryptoCurrency Strategy Library
+# ThorCryptoCurrency Strategy Library
 
 
  * 本库策略可运行的相关数字货币主流交易所
@@ -34,27 +34,22 @@
 
 ## 贡献代码
 
-vn.py使用Github托管其源代码，如果希望贡献代码请使用github的PR（Pull Request）的流程:
+ThorCryptoCurrency Strategy Library使用Github托管其源代码，如果希望贡献代码请使用github的PR（Pull Request）的流程:
 
-1. [创建 Issue](https://github.com/vnpy/vnpy/issues/new) - 对于较大的改动（如新功能，大型重构等）最好先开issue讨论一下，较小的improvement（如文档改进，bugfix等）直接发PR即可
+1. [创建 Issue](https://github.com/fengok/ThorCryptocurrencyQuant/issues/new) - 对于策略较大的改动（如新功能，重构等）最好先开issue讨论一下，较小的improvement（如文档改进等）直接发PR即可
 
-2. Fork [vn.py](https://github.com/vnpy/vnpy) - 点击右上角**Fork**按钮
+2. Fork [ThorCryptocurrencyQuant](https://github.com/fengok/ThorCryptocurrencyQuant) - 点击右上角**Fork**按钮
 
-3. Clone你自己的fork: ```git clone https://github.com/$userid/vnpy.git```
+3. Clone你自己的fork: ```git clone https://github.com/fengok/ThorCryptocurrencyQuant.git```
 	* 如果你的fork已经过时，需要手动sync：[同步方法](https://help.github.com/articles/syncing-a-fork/)
 
 4. 从**dev**创建你自己的feature branch: ```git checkout -b $my_feature_branch dev```
 
 5. 在$my_feature_branch上修改并将修改push到你的fork上
 
-6. 创建从你的fork的$my_feature_branch分支到主项目的**dev**分支的[Pull Request] -  [在此](https://github.com/vnpy/vnpy/compare?expand=1)点击**compare across forks**，选择需要的fork和branch创建PR
+6. 创建从你的fork的$my_feature_branch分支到主项目的**dev**分支的[Pull Request] -  [在此](https://github.com/fengok/ThorCryptocurrencyQuant/compare?expand=1)点击**compare across forks**，选择需要的fork和branch创建PR
 
 7. 等待review, 需要继续改进，或者被Merge!
-
-在提交代码的时候，请遵守以下规则，以提高代码质量：
-
-  * 使用[autopep8](https://github.com/hhatto/autopep8)格式化你的代码。运行```autopep8 --in-place --recursive . ```即可。
-  * 使用[flake8](https://pypi.org/project/flake8/)检查你的代码，确保没有error和warning。在项目根目录下运行```flake8```即可。
 
 
 
