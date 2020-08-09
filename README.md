@@ -1,8 +1,7 @@
 # ThorCryptoCurrency Strategy Library
 
 
- * 本库策略可运行的相关数字货币主流交易所
- * 其他交易所也可适配后运行
+ * Thor Strategy Library策略可运行的相关数字货币主流交易所（其他交易所也可适配后运行）
 
         * BitMEX（bitmex）：数字货币期货、永续合约
 
