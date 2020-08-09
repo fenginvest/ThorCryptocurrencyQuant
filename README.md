@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-  <img src ="http://thorquant.com/ThorQuant.png"/>
+
 </p>
 <br>
 <br>
