@@ -39,26 +39,25 @@
 
 ## 策略介绍
 
-1. 
+- 平衡策略：
 
-2. 
+- 高频网格策略：
 
-3. 
+- 吃针策略：
 
-4. 
+- Boll指标策略：
 
-5.
+- 对敲策略：
+
 
 
 ## 使用说明
 
-1. 
-
-2. 
-
-3.
-
-4.
+- support for many cryptocurrency exchanges — more coming soon
+- fully implemented public and private APIs
+- optional normalized data for cross-exchange analytics and arbitrage
+- an out of the box unified API that is extremely easy to integrate
+- works in Node 7.6+, Python 3, PHP 5.4+, and web browsers
 
 
 
