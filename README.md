@@ -68,6 +68,7 @@
 - 主流交易所借助CCXT实现，非主流交易所也适配封装了所有公有私有API，可直接运行
 - 非主流交易所数据格式返回与CCXT数据格式一致，方便数据分析
 - 运行环境Python3,CCXT需自行安装（pip install ccxt）
+- Python建议使用linux系统，借助tmux可以较方便的监控策略运行
 - JavaScript策略基于FMZ运行（原botvs）
 
 
