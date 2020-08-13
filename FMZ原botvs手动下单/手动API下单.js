@@ -1,4 +1,6 @@
 
+
+//bitmex手动下单插件
 var kaiduo = false; 
 var kaikong = false;
 var pingduo = false;
