@@ -210,10 +210,10 @@ class BitmexWebsocket(object):
                                 newvalues = {"$set": {"order_status": i['ordStatus']}}
                                 col.update_one(myquery, newvalues)
                             elif "order_side" in i:
-                                newvalues = {"$set": {"order_status": i['order_side']}}
+                                newvalues = {"$set": {"order_side": i['order_side']}}
                                 col.update_one(myquery, newvalues)
                             elif "order_price" in i:
-                                newvalues = {"$set": {"order_status": i['order_price']}}
+                                newvalues = {"$set": {"order_price": i['order_price']}}
                                 col.update_one(myquery, newvalues)
         # 如果登录成功，就定义账户相关的信息..
         if "request" in msg:

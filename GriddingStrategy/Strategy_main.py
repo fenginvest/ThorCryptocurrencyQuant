@@ -11,10 +11,9 @@ from GriddingStrategy.okex_websocket._okex_websocket import OKEXWebsocket
 from GriddingStrategy.Quant import Transaction
 
 if __name__ == '__main__':
-    # 目前兼容 Bitmex  OKEX
+    # 目前兼容 bitmex  OKEX 永续合约 交易对填写时 币本位填写BTC/USD  U本位填写BTC/USDT
     # Binance还在更新兼容中， 更新后上传
-    exchange = 'bitmex'
-
+    exchange = 'bitmex'   # bitmex  OKEX
     apiKey = ''
     secret = ''
     password = ''  # OKEX需要填写 交易密码，其他交易所不需要 为空
@@ -40,5 +39,5 @@ if __name__ == '__main__':
 
     start_ = Transaction(order_symbol, apiKey, secret, num_buy, num_sell, order_spread, order_profit,
                          order_amonut_buy, order_amonut_sell, exchange=exchange, password=password,
-                         order_type=order_type, )
+                         order_type=order_type)
     start_.start_transaction()
