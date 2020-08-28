@@ -213,11 +213,5 @@ if __name__ == "__main__":
     else:
         run()
 
-    # b = BrokerContractClient(entry_point=MyExchange.tread_url, api_key='VpnXHFwS6RVUqgtdkGh4HoOI2bY9KREgFJWXtI0s9biuGibgJGykLHqMSOCya3Ui', secret='eXW8G787oNlBpxkHqidW7WuErIcRvbc2kGgeIFfikuKxLOU2nwj4i00arH2vbFd6')
-    # print(b.time())
-    # homiex = MyExchange()
-    # # # sym, amt, rat, order_side,
-    # btc = homiex.GetAccount(api_key='VpnXHFwS6RVUqgtdkGh4HoOI2bY9KREgFJWXtI0s9biuGibgJGykLHqMSOCya3Ui', api_secret='eXW8G787oNlBpxkHqidW7WuErIcRvbc2kGgeIFfikuKxLOU2nwj4i00arH2vbFd6')
-    # print(btc)
 
 
