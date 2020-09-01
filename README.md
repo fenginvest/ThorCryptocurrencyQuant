@@ -73,6 +73,7 @@ ThorCryptoCurrency Strategy Library接受第三方策略开源:
 
 捐赠方式：
 - 支付宝：block@163.com（*裕峰）
+- Ethereum Address : 0x0d393fF20ccdA3ae7Ef1AdAE97806dF777dEecFe
 
 
 我们会长期维护捐赠清单，请在捐赠时备注项目名称与捐赠人姓名
