@@ -3,9 +3,6 @@
  
 <br>
 <br>
-<p align="center">
-  <img src ="http://thorquant.com/Thor-Quant.png"/>
-</p>
 <br>
 <br>
 
