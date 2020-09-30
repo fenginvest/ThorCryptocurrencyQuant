@@ -89,13 +89,10 @@ class Transaction(object):
         except Exception as e:
             print(self.exchange.id, str(e))
             exit()
-
-        base_price = 0
+        global base_price
         if self.exchanges == 'bitmex':
-            global base_price
             base_price = self.exchange.fetch_ticker(self.order_symbol)['last']
         if self.exchanges == 'OKEX':
-            global base_price
             base_price = self.exchange.swapGetInstrumentsInstrumentIdTicker({'instrument_id': self._symbol})['last']
         print(base_price)
 
