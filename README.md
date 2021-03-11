@@ -68,6 +68,8 @@ ThorCryptoCurrency Strategy Library接受第三方策略开源:
 
 先强调一下：**本项目里面的策略都是开源的，可以无偿免费使用，并没有强制捐赠的要求！！！**
 
+微信/QQ : 3404034
+
 捐赠方式：
 - 支付宝：block@163.com（*裕峰）
 - Ethereum Address : 0x0d393fF20ccdA3ae7Ef1AdAE97806dF777dEecFe
