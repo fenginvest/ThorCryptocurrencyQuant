@@ -60,12 +60,6 @@ ThorCryptoCurrency Strategy Library接受第三方策略开源:
 
 
 
-
-## 联系方式
-
-微信/QQ : 3404034
-
-
 ## 版权说明
 
 MIT
